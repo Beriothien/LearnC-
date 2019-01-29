@@ -1,0 +1,13 @@
+// The <iostream> header defines the standard stream objects that input and output data.
+	#include <iostream>
+//the line using namespace std; tells the compiler to use the std (standard) namespace
+	using namespace std;
+
+int main(){
+
+// uses cout instead of System.out.println
+	cout<<"Hello World!";
+	
+// method must always have a return statement
+	return 0;
+}
